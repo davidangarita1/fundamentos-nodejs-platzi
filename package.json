@@ -1,0 +1,20 @@
+{
+  "name": "fundamentos-nodejs-platzi",
+  "version": "1.0.0",
+  "description": "## Variables de entorno nodeJs Podemos acceder a variables de entorno desde nuestro codigo en nodeJs de la siguiente forma: ```javascript let nombre_variable = process.env.NOMBRE || 'Sin nombre'; ```",
+  "main": "entorno.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidangarita1/fundamentos-nodejs-platzi.git"
+  },
+  "keywords": [],
+  "author": "David Angarita <david@dangwebs.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davidangarita1/fundamentos-nodejs-platzi/issues"
+  },
+  "homepage": "https://github.com/davidangarita1/fundamentos-nodejs-platzi#readme"
+}
